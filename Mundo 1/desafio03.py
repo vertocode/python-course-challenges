@@ -1,0 +1,5 @@
+print('Calculador de soma')
+primeironumero = int(input('Primeiro número: '))
+segundonumero = int(input('Segundo número: '))
+resultado = int(primeironumero + segundonumero)
+print('A soma é ', resultado)
